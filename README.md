@@ -1,2 +1,2 @@
 # KW_imbedded
-imbedded project
+imbedded project(People in Bus Management System)
